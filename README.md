@@ -1,5 +1,7 @@
 # InstructPix2Pix: Learning to Follow Image Editing Instructions
 ### [Project Page](https://www.timothybrooks.com/instruct-pix2pix/) | [Paper](https://arxiv.org/abs/2211.09800) | [Data](http://instruct-pix2pix.eecs.berkeley.edu/)
+<a href="https://replicate.com/arielreplicate/instruct_pix2pix"><img src="https://replicate.com/arielreplicate/instruct_pix2pix/badge"></a>
+
 PyTorch implementation of InstructPix2Pix, an instruction-based image editing model, based on the original [CompVis/stable_diffusion](https://github.com/CompVis/stable-diffusion) repo. <br>
 
 [InstructPix2Pix: Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/)  
